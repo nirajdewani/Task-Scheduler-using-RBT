@@ -28,3 +28,7 @@ Input sample:
 8,11,43   
 9,12,27   
 10,7,12   
+
+References:   
+Referred to and adapted the RBT implementation as discussed on    
+http://algs4.cs.princeton.edu/33balanced/RedBlackBST.java.html 
